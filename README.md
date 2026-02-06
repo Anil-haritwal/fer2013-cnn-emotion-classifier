@@ -1,4 +1,5 @@
 # Facial Emotion Recognition using CNN (FER2013)
+👨‍💻 Author: Anil Haritwal
 
 ## Project Overview
 This project implements a **Convolutional Neural Network (CNN)** from scratch to classify **facial emotions** using the **FER2013 dataset**. The model predicts 7 emotion classes:  
